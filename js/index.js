@@ -28,6 +28,10 @@ $(document).ready(function() {
             e.preventDefault();
             $.scrollTo($("#Performance"), 1000);
         });
+        $("#nav-Contact").click(function(e) {
+            e.preventDefault();
+            $.scrollTo($("#Contact"), 1000);
+        });
         $(".navbar-brand").click(function(e) {
             e.preventDefault();
             $.scrollTo(0, 1000);
