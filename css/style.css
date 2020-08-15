@@ -127,8 +127,8 @@ body > .container-fluid {
 .cover {
   padding: 10% 0 10% 0; }
   .cover.top {
-    padding: 15% 0 10% 0;
-    height: 100vh;
+    padding: 10% 0 10% 0;
+    height: 120vh;
     display: flex;
     background-color: #25b79f; }
   .cover.bottom {
@@ -282,3 +282,4 @@ padding: 0% 5% 0% 5%;
   .back-to-top.visible {
     display: block; }
 
+.video-container {margin: 0px auto;}
